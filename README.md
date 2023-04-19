@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ALEXANDER-KRAZY
-- 👀 I’m interested in Networking, Software Engineering and Web Development
-- 🌱 I’m currently learning Java
-- 🌽 I'm already familiar with C, C++, Python, Html, Css , JavaScript, PHP, MySQL, WordPress
+- 👀 I’m interested in Web Development, Android Development, Networking and Software Engineering
+- 🌱 I’m currently learning Cloud computing
+- 🌽 Versatile with Python, JavaScript, PHP, MySQL, Html, Css, C, C++, WordPress, Git, Flask, Django, RubyonRails
 - 👉 Ubuntu Linux guru
-- 💞️ I’m looking to collaborate on Software Engineering and Web Development
-- 📫 Link me on email alexandermutuku855@gmail.com or mutukuuhuru@zetech.ac.ke
+- 📫 I’m looking to collaborate on any of the above if you Link me on email alexandermutuku855@gmail.com or mutukuuhuru@zetech.ac.ke
 - 🦁 My LinkedIn account link https://www.linkedin.com/in/alex-mutuku-784716241
        Give Thanks 😊
