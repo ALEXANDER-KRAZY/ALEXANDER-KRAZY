@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALEXANDER-KRAZY
+- 👋 Hi, I’m ALEX MUTUKU
 - 👀 I’m interested in Web Development, Android Development, Networking and Software Engineering
 - 🌱 I’m currently learning Cloud computing
 - 🌽 Versatile with Python, JavaScript, PHP, MySQL, Html, Css, C, C++, WordPress, Git, React, Next.js, Java,
